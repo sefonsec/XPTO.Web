@@ -1,0 +1,25 @@
+﻿@model Xpto.Modelo.Produto
+
+@{
+    ViewBag.Title = "Detalhes";
+}
+
+<h2>Detalhes do produto</h2>
+
+<div>    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Voltar", "Index")
+</p>

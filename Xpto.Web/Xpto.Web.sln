@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xpto.Web", "Xpto.Web\Xpto.Web.csproj", "{62D3B124-5FB0-4980-8934-C75FD507BF80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xpto.Modelo", "..\Xpto.Modelo\Xpto.Modelo.csproj", "{23BC7DA5-C873-425A-A0BA-6992D472E01F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xpto.Persistencia", "..\Xpto.Persistencia\Xpto.Persistencia.csproj", "{D71747DD-F4CD-4808-8E51-01F2AC0DEED9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62D3B124-5FB0-4980-8934-C75FD507BF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D3B124-5FB0-4980-8934-C75FD507BF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D3B124-5FB0-4980-8934-C75FD507BF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D3B124-5FB0-4980-8934-C75FD507BF80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BC7DA5-C873-425A-A0BA-6992D472E01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BC7DA5-C873-425A-A0BA-6992D472E01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BC7DA5-C873-425A-A0BA-6992D472E01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BC7DA5-C873-425A-A0BA-6992D472E01F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D71747DD-F4CD-4808-8E51-01F2AC0DEED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D71747DD-F4CD-4808-8E51-01F2AC0DEED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D71747DD-F4CD-4808-8E51-01F2AC0DEED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D71747DD-F4CD-4808-8E51-01F2AC0DEED9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\Xpto.Persistencia.dll.config
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\Xpto.Persistencia.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\Xpto.Persistencia.pdb
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Persistencia\obj\Debug\Xpto.Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Persistencia\obj\Debug\Xpto.Persistencia.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Persistencia\obj\Debug\Xpto.Persistencia.pdb
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\Xpto.Persistencia.dll.config
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\Xpto.Persistencia.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\Xpto.Persistencia.pdb
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\EntityFramework.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\Xpto.Modelo.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\Xpto.Modelo.pdb
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\EntityFramework.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Persistencia\obj\Debug\Xpto.Persistencia.csprojResolveAssemblyReference.cache
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Persistencia\obj\Debug\Xpto.Persistencia.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Persistencia\obj\Debug\Xpto.Persistencia.pdb
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\Xpto.Modelo.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Persistencia\bin\Debug\Xpto.Modelo.pdb

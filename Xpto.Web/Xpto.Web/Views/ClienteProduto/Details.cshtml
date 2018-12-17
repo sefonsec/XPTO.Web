@@ -1,0 +1,33 @@
+﻿@model Xpto.Modelo.ClienteProduto
+
+@{
+    ViewBag.Title = "Detalhes";
+}
+
+<h2>Detalhes</h2>
+
+<div>    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Cliente.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ClienteId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Produto.Descricao)
+        </dt>
+
+        <dd>            
+            @Html.DisplayFor(model => model.ProdutoId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Voltar", "Index")
+</p>

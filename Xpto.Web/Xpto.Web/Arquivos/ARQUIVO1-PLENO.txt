@@ -1,0 +1,1 @@
+﻿1,JOÃO,DA SILVA,01/01/1984,MASCULINO,jsilva@stefanini.com,true;2,MARIA,DA SILVA,12/02/1984,FEMININO,msilva@stefanini.com,true;3,ANTONIO,DA SILVA,01/12/1984,MASCULINO,asilva@stefanini.com,false

@@ -1,0 +1,10 @@
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Modelo\bin\Debug\Xpto.Modelo.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Modelo\bin\Debug\Xpto.Modelo.pdb
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Modelo\obj\Debug\Xpto.Modelo.csprojResolveAssemblyReference.cache
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Modelo\obj\Debug\Xpto.Modelo.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Modelo\obj\Debug\Xpto.Modelo.pdb
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Modelo\bin\Debug\Xpto.Modelo.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Modelo\bin\Debug\Xpto.Modelo.pdb
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Modelo\obj\Debug\Xpto.Modelo.csprojResolveAssemblyReference.cache
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Modelo\obj\Debug\Xpto.Modelo.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Modelo\obj\Debug\Xpto.Modelo.pdb

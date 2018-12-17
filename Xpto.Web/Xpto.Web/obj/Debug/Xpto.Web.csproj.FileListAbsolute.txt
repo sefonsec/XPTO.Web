@@ -1,0 +1,254 @@
+D:\XPTO\XPTO.Web\Xpto.Web\bin\ApplicationInsights.config
+D:\XPTO\XPTO.Web\Xpto.Web\bin\roslyn\csc.exe
+D:\XPTO\XPTO.Web\Xpto.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\XPTO\XPTO.Web\Xpto.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\XPTO\XPTO.Web\Xpto.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\roslyn\vbc.exe
+D:\XPTO\XPTO.Web\Xpto.Web\bin\roslyn\VBCSCompiler.exe
+D:\XPTO\XPTO.Web\Xpto.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Xpto.Web.dll.config
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Xpto.Web.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Xpto.Web.pdb
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Antlr3.Runtime.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\EntityFramework.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\EntityFramework.SqlServer.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.AI.Web.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.ApplicationInsights.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.Security.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Newtonsoft.Json.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Owin.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\System.Web.Helpers.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\System.Web.Mvc.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\System.Web.Optimization.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\System.Web.Razor.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\System.Web.WebPages.Deployment.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\System.Web.WebPages.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\System.Web.WebPages.Razor.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\WebGrease.dll
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.AI.Web.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.ApplicationInsights.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\System.Web.Helpers.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\System.Web.Mvc.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\System.Web.Optimization.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\System.Web.Razor.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\System.Web.WebPages.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\System.Web.WebPages.Deployment.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\System.Web.WebPages.Razor.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Antlr3.Runtime.pdb
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Newtonsoft.Json.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\EntityFramework.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\EntityFramework.SqlServer.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.Security.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\XPTO\XPTO.Web\Xpto.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\XPTO\XPTO.Web\Xpto.Web\obj\Debug\Xpto.Web.csprojResolveAssemblyReference.cache
+D:\XPTO\XPTO.Web\Xpto.Web\obj\Debug\Xpto.Web.dll
+D:\XPTO\XPTO.Web\Xpto.Web\obj\Debug\Xpto.Web.pdb
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\ApplicationInsights.config
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\csc.exe
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\vbc.exe
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\VBCSCompiler.exe
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Xpto.Web.dll.config
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Xpto.Web.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Xpto.Web.pdb
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Antlr3.Runtime.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\EntityFramework.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\EntityFramework.SqlServer.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.Web.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Newtonsoft.Json.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Owin.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.Helpers.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.Mvc.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.Optimization.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.Razor.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.WebPages.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.WebPages.Razor.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\WebGrease.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.Web.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.ApplicationInsights.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.Helpers.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.Mvc.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.Optimization.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.Razor.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.WebPages.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.WebPages.Razor.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Antlr3.Runtime.pdb
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Newtonsoft.Json.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\EntityFramework.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\EntityFramework.SqlServer.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\obj\Debug\Xpto.Web.csprojResolveAssemblyReference.cache
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\obj\Debug\Xpto.Web.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\obj\Debug\Xpto.Web.pdb
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Xpto.Modelo.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Xpto.Persistencia.dll
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Xpto.Modelo.pdb
+D:\Arquivos Diversos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Xpto.Persistencia.pdb
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\ApplicationInsights.config
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\csc.exe
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\vbc.exe
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Xpto.Web.dll.config
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Xpto.Web.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Xpto.Web.pdb
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Antlr3.Runtime.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\EntityFramework.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.Web.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Newtonsoft.Json.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Owin.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.Helpers.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.Mvc.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.Optimization.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.Razor.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.WebPages.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\WebGrease.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Xpto.Modelo.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Xpto.Persistencia.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Xpto.Modelo.pdb
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Xpto.Persistencia.pdb
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.Web.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.Helpers.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.Mvc.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.Optimization.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.Razor.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.WebPages.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Antlr3.Runtime.pdb
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Newtonsoft.Json.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\EntityFramework.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\obj\Debug\Xpto.Web.csprojResolveAssemblyReference.cache
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\obj\Debug\Xpto.Web.dll
+C:\Users\eduardo\source\repos\Stefanini\XPTO\Xpto.Web\Xpto.Web\obj\Debug\Xpto.Web.pdb

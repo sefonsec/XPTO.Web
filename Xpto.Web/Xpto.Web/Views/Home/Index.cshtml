@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "XPTO";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <h2>Iniciando a aplicação</h2>
+        <p>
+            Execute a aplicação dentro do Visual Studio 2015 ou superior para criar o banco de dados no SQL Server. 
+            Não esquecer de mudar a connectionString dentro do Web.config.
+        </p>
+        <p>
+            Para extrair os dados dos arquivos ARQUIVO1-PLENO.txt e ARQUIVO2-PLENO.txt, basta clicar no botão 
+            Extrair dados dos arquivos.
+        </p> 
+        <p>
+            Estes dados serão gravados em um banco de dados em SQL Server.
+            A exibição dos dados extraídos dos arquivos txt estarão disponíveis nos menus Clientes, Produtos e Cliente / Produto.
+        </p>      
+        <p>
+            A aplicação ainda possui um módulo em Windows Forms, que exibe os dados extraídos através da aplicação Web.
+        </p> 
+        <p>
+            Essa aplicação foi desenvolvida com ASP.NET MVC 5 com Entity Framework.
+        </p>
+        <a class="btn btn-primary btn-lg" href="@Url.Action("ExtrairDadosArquivos", "Home")" title="Extrair dados dos arquivos txt">Extrair dados dos arquivos</a>
+    </div>
+</div>

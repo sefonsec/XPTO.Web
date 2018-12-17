@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Xpto.Modelo.ClienteProduto>
+
+@{
+    ViewBag.Title = "Informar cliente e produto";
+}
+
+<h2>Informar cliente e produto</h2>
+
+<p>
+    @Html.ActionLink("Novo cadastro", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Cliente.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Produto.Descricao)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cliente.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Produto.Descricao)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Detalhes", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Excluir", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
